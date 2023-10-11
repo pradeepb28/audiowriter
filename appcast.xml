@@ -3,6 +3,14 @@
     <channel>
         <title>Audio Writer</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Wed, 11 Oct 2023 17:21:30 +0530</pubDate>
+            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/audio-writer-c73e5.appspot.com/o/AudioWriter.zip?alt=media&amp;token=201965e3-885f-4960-aa19-894bdba01be6" length="3265193" type="application/octet-stream" sparkle:edSignature="zfBNpo475J7PXJpQw8lCJAO/lwjArpTjtc+65YE47vZ7kQq7/ko7tAHSBmv/Tr6xVS2jf7BTPwBQWcXRQUynBg=="/>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Wed, 11 Oct 2023 15:49:37 +0530</pubDate>
             <sparkle:version>1</sparkle:version>
