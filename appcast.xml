@@ -6,9 +6,9 @@
             <title>1.0</title>
             <pubDate>Wed, 11 Oct 2023 15:49:37 +0530</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/audio-writer-c73e5.appspot.com/o/AudioWriter.zip?alt=media&amp;token=cf70b025-60a0-423e-8c4f-cfd9823a4da9" length="3265173" type="application/octet-stream" sparkle:edSignature="NTge3iMtZp7qgAoyw7NxY3oaEzfqMrhUELG4Wi3CWClt1ha4EftcnyLADUScK6YVV/83PJfQEV6Y/HEV82wgDw=="/>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/audio-writer-c73e5.appspot.com/o/AudioWriter.zip?alt=media&amp;token=50d806d0-63c1-40c0-975f-7eff2ad5f3e1" length="3265170" type="application/octet-stream" sparkle:edSignature="N4d1esYqtu0rIEp019/It2RdeRatFmuxWnKTWpma9TMjARCu7MgJpNPfI0kbqYA/bsRl+8+GW0b1dCcxHXLuDQ=="/>
         </item>
     </channel>
 </rss>
