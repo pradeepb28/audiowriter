@@ -8,7 +8,7 @@
             <sparkle:version>1.2.0</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/audio-writer-c73e5.appspot.com/o/AudioWriter.zip?alt=media&amp;token=b07c2d30-86eb-45c2-8be0-5db7ebaf54c7&amp;_gl=1*mbi3km*_ga*MTkwNTYyMzIyMi4xNjk3NjE3ODc4*_ga_CW55HF8NVT*MTY5NzYxNzg3OC4xLjEuMTY5NzYxNzkwOC4zMC4wLjA" length="3317846" type="application/octet-stream" sparkle:edSignature="NcT78Qscf+sxrB7570QeBZ/qvdDg6cf5G/drG2X0u7TChcPFa92O9Y5t/RxY3wIQAonOb9p9D0Oi6nQ8zyZ4Dw=="/>
+            <enclosure url="https://gslskfrlgzgnlpxecljn.supabase.co/storage/v1/object/public/audio_writer/AudioWriter.zip?t=2023-10-18T08%3A40%3A13.659Z" length="3317846" type="application/octet-stream" sparkle:edSignature="NcT78Qscf+sxrB7570QeBZ/qvdDg6cf5G/drG2X0u7TChcPFa92O9Y5t/RxY3wIQAonOb9p9D0Oi6nQ8zyZ4Dw=="/>
         </item>
         <item>
             <title>1.1.0</title>
