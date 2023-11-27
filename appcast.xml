@@ -3,6 +3,14 @@
     <channel>
         <title>Audio Writer</title>
         <item>
+            <title>1.3.5</title>
+            <pubDate>Mon, 27 Nov 2023 12:05:14 +0530</pubDate>
+            <sparkle:version>1.3.5</sparkle:version>
+            <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://gslskfrlgzgnlpxecljn.supabase.co/storage/v1/object/public/audio_writer/AudioWriter.zip" length="3343482" type="application/octet-stream" sparkle:edSignature="dWfIfMeUnolMBbdYq6sYzmsfl98Dmtjk05wbImJKeQhhVugDtusSrcXn/yyDsgi5tHI8j3Eatjz49p+lVsX2Cg=="/>
+        </item>
+        <item>
             <title>1.3.4</title>
             <pubDate>Sun, 19 Nov 2023 11:42:41 +0530</pubDate>
             <sparkle:version>1.3.4</sparkle:version>
