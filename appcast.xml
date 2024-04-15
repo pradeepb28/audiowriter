@@ -3,6 +3,14 @@
     <channel>
         <title>Audio Writer</title>
         <item>
+            <title>1.5.2</title>
+            <pubDate>Mon, 15 Apr 2024 15:45:10 +0530</pubDate>
+            <sparkle:version>1.5.2</sparkle:version>
+            <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://gslskfrlgzgnlpxecljn.supabase.co/storage/v1/object/public/audio_writer/AudioWriter.zip" length="4060956" type="application/octet-stream" sparkle:edSignature="Nx6cUxGxj4fGasoX0ot10689EPJoCmW54dEdxh8eziKTsG5rE2+vhvxNrG5O8NjcMxxUGOmSdg9llxZBTPpdBA=="/>
+        </item>
+        <item>
             <title>1.5.1</title>
             <pubDate>Fri, 12 Apr 2024 23:11:34 +0530</pubDate>
             <sparkle:version>1.5.1</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
             <enclosure url="https://gslskfrlgzgnlpxecljn.supabase.co/storage/v1/object/public/audio_writer/AudioWriter.zip" length="4052802" type="application/octet-stream" sparkle:edSignature="Bc/TvNoPmuqowIbxcLCnDAaf6iBvm+77UeAl/OPtMmOC1bqYMa+a4TRVmOHH880+9hCGTut/H5ci4+RW3RthAg=="/>
-        </item>
-        <item>
-            <title>1.4.9</title>
-            <pubDate>Wed, 13 Mar 2024 21:32:53 +0530</pubDate>
-            <sparkle:version>1.4.9</sparkle:version>
-            <sparkle:shortVersionString>1.4.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://gslskfrlgzgnlpxecljn.supabase.co/storage/v1/object/public/audio_writer/AudioWriter.zip" length="3591241" type="application/octet-stream" sparkle:edSignature="qw9ewv8l56Bp5bhSRREs51MkgCRqZ+0U+q6amVEvPq7SrUuKuxC+DFydL1r/ZxFuCQOlAY4bfriU0yNwX4kxBQ=="/>
         </item>
         <item>
             <title>1.2.0</title>
